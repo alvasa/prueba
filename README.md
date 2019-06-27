@@ -345,7 +345,7 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTGRP:unsorted
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-
+http://192.168.100.180:8096/emby/Videos/2846/stream.mkv?Static=true&mediaSourceId=c0d6f1b1be51d078d371161d13bd76db&deviceId=TW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzUuMC4zNzcwLjEwMCBTYWZhcmkvNTM3LjM2fDE1NjE2MTA4MTE4NDk1&api_key=5991113b72cf4b069336d9c7a1f66fc1
 
 file:///home/mauricio/Descargas/El%20Hombre%2012%20-%20Los%20Viajes%20De%20Marco%20Polo.avi
 
